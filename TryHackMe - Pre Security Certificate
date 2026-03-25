@@ -1,6 +1,30 @@
  Topics Learned – Pre Security 
 Certificate link: https://tryhackme.com/certificate/THM-TZQCAEWPMM
 
+Tools & Technologies
+
+- Linux Terminal (Bash) — used throughout to navigate file systems, run commands, and interact with services
+- TryHackMe AttackBox — browser-based virtual machine for hands-on labs with no local setup required
+- Wireshark (intro) — basic exposure to packet capture and network traffic analysis
+- nslookup / dig — DNS query tools to understand how domain resolution works
+- curl / wget — command-line tools for making HTTP requests and downloading resources
+- Windows Command Prompt & PowerShell (intro) — basic Windows CLI navigation
+
+ Key Concepts & Skills Developed
+
+- Understanding the OSI model (7 layers) and how data moves across a network — not just memorizing the layers, but knowing *why* they exist
+- How TCP/IP establishes connections, including the three-way handshake (SYN → SYN-ACK → ACK)
+- What IP addresses, subnets, and CIDR notation mean and how devices get assigned addresses via DHCP
+- How DNS works — from typing a domain name to getting an IP back, including recursive resolvers and TTL
+- The HTTP/HTTPS request lifecycle — methods (GET, POST), status codes, headers, and what makes HTTPS different from HTTP
+- Linux file system navigation — understanding `/etc`, `/var`, `/home`, permissions (rwx), and why `sudo` matters
+- Windows OS fundamentals — NTFS permissions, the registry, Task Manager, and how Windows handles user accounts
+- The difference between encryption, encoding, and hashing — and why confusing them is a security mistake
+- Basic understanding of Active Directory and why it's the backbone of most corporate networks
+- The mindset shift of thinking like an attacker — understanding that vulnerabilities come from misconfigurations and misunderstandings, not just buggy code
+
+----------
+
 Computer & System Fundamentals
 - How computers work (CPU, memory, storage basics)  
 - Operating system fundamentals  
@@ -53,3 +77,7 @@ Practical Hands-On Skills
 - Running basic network and system commands  
 - Identifying simple vulnerabilities  
 - Understanding real-world attack scenarios in labs  
+
+
+
+
