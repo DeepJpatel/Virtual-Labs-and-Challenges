@@ -1,0 +1,54 @@
+ Topics Learned – Pre Security (Legacy)
+
+Computer & System Fundamentals
+- How computers work (CPU, memory, storage basics)  
+- Operating system fundamentals  
+- File systems and process management  
+- Basic hardware and software interaction  
+
+ Networking Fundamentals
+- TCP/IP model and OSI model  
+- IP addressing and subnetting basics  
+- Common protocols (HTTP, HTTPS, DNS, FTP, SSH)  
+- How data travels across networks  
+- Basic network troubleshooting concepts  
+
+ Linux Fundamentals
+- Linux file system structure  
+- Command-line navigation and file operations  
+- User and permission management  
+- Package installation and system updates  
+- Basic shell commands and scripting concepts  
+
+ Windows Fundamentals
+- Windows OS architecture basics  
+- File systems (NTFS)  
+- User accounts and permissions  
+- System configuration and control panel tools  
+- Introduction to PowerShell  
+
+ Web Fundamentals
+- How websites work (client-server model)  
+- HTTP/HTTPS request and response lifecycle  
+- DNS resolution process  
+- Basics of HTML, CSS, and JavaScript  
+- Introduction to web application structure  
+
+ Cybersecurity Fundamentals
+- CIA Triad (Confidentiality, Integrity, Availability)  
+- Types of cyber threats (malware, phishing, brute force)  
+- Basic attack vectors and vulnerabilities  
+- Authentication vs authorization  
+- Introduction to security controls  
+
+Intro to Offensive & Defensive Security
+- Basic understanding of penetration testing concepts  
+- Overview of attack lifecycle (recon → exploitation → post-exploitation)  
+- Introduction to defensive strategies and monitoring  
+- Awareness of common tools used in cybersecurity  
+
+Practical Hands-On Skills
+- Navigating Linux and Windows environments  
+- Running basic network and system commands  
+- Identifying simple vulnerabilities  
+- Understanding real-world attack scenarios in labs  
