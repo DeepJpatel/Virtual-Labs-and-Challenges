@@ -1,0 +1,55 @@
+ Topics Learned – Cyber Security Learning Path
+
+ Cybersecurity Foundations
+- Understanding cybersecurity roles (Red Team vs Blue Team)  
+- CIA Triad (Confidentiality, Integrity, Availability)  
+- Threats, vulnerabilities, and risk management  
+- Overview of real-world cyber attacks  
+
+Networking & Communication
+- TCP/IP and OSI models  
+- Common protocols (HTTP, HTTPS, DNS, FTP, SSH)  
+- Network services and how they are exploited  
+- Network reconnaissance techniques  
+
+ Linux Fundamentals
+- Linux file system and directory structure  
+- Command-line operations and navigation  
+- File permissions and user management  
+- Process and service handling  
+
+ Reconnaissance & Enumeration
+- Passive reconnaissance (whois, DNS lookup)  
+- Active reconnaissance (ping, traceroute)  
+- Port scanning and service detection using Nmap  
+- Identifying attack surface  
+
+ Offensive Security (Red Team Basics)
+- Exploitation fundamentals  
+- Vulnerability identification  
+- Using tools like Nmap and Metasploit  
+- Basic privilege escalation concepts  
+- Capture The Flag (CTF) problem-solving  
+
+ Web Security Basics
+- How web applications work  
+- HTTP request/response lifecycle  
+- Common vulnerabilities (SQL Injection, XSS basics)  
+- Introduction to web application testing  
+
+ Defensive Security (Blue Team Basics)
+- Log analysis fundamentals  
+- Identifying suspicious activity  
+- Basic incident response concepts  
+- Introduction to security monitoring  
+
+ Cryptography & Security Concepts
+- Hashing and encryption basics  
+- Password security and cracking concepts  
+- Secure communication principles  
+
+ Practical Hands-On Skills
+- Solving real-world cybersecurity labs and challenges  
+- Performing basic penetration testing workflows  
+- Analyzing system and network behavior  
+- Developing problem-solving mindset for security tasks  
